@@ -7,7 +7,7 @@ public class Spawner : MonoBehaviour
     public NPC[] npc;
     public float timer;
     public float limit;
-    private int cont = 10;
+    public int cont = 10;
 
     // Update is called once per frame
     void Update()

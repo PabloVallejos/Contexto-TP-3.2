@@ -374,7 +374,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Tutorial3
+          m_StringArgument: Tutorial2
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &453622441
@@ -568,7 +568,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Tutorial2
+  m_Text: Tutorial
 --- !u!222 &863797619
 CanvasRenderer:
   m_ObjectHideFlags: 0
