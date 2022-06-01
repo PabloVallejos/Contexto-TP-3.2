@@ -962,7 +962,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: De un primo o algo. En fin anda a casa pibe que se esta poniendo tarde.
+  m_Text: Bueno anda, solo no pienses de cuando te robaron el celu en la esquina,
+    o que no anda bien la luz, o la banda de los chicos que casi te matan a trompadas
+    esa vez, o cuando mataron a alguien en la esquina.
 --- !u!222 &2094522996
 CanvasRenderer:
   m_ObjectHideFlags: 0

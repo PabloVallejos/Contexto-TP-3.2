@@ -273,8 +273,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xBFYa ni si quiera podes explicar la trama bien? Que juego mas choto,
-    me voy >:("
+  m_Text: Muchas cosas, me voy >:(
 --- !u!222 &385641104
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -614,8 +613,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5, y: -199}
-  m_SizeDelta: {x: 193.8276, y: 62.7467}
+  m_AnchoredPosition: {x: 5, y: -215.5314}
+  m_SizeDelta: {x: 193.8276, y: 29.6839}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1383742864
 MonoBehaviour:
@@ -884,7 +883,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xBFEstaba en un cumple? WTF"
+  m_Text: "\xBFPuedo ir ya?"
 --- !u!222 &1984778190
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -963,9 +962,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "A proposito, tu corazon anda mal por toda la basura que te comiste en
-    el cumple, si empezas a tener un ataque anda a una farmacia. Eso si, no les anda
-    la luza as\xED que fijate bien."
+  m_Text: "A proposito, tienes problemas en el coraz\xF3n. Si te empieza a dar un
+    ataque tenes que ir a una de las farmacias."
 --- !u!222 &2094522996
 CanvasRenderer:
   m_ObjectHideFlags: 0
